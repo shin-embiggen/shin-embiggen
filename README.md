@@ -46,14 +46,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhinvier07/xhinvier07/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xhinvier07/xhinvier07/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/xhinvier07/xhinvier07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shin-embiggen/shin-embiggen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shin-embiggen/shin-embiggen/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/shin-embiggen/shin-embiggen/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xhinvier07&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true&radius=8&custom_title=Xhinvier's+Contribution+Graph" alt="Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shin-embiggen&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true&radius=8&custom_title=Shin's+Contribution+Graph" alt="Contribution Graph" />
 </div>
 
 <div align="center">

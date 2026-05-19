@@ -8,7 +8,7 @@
   # ✨ Xhinvier ✨
   
   <p align="center">
-    <em>Software Engineer | Jr. AI Solutions Engineer | Frontend Developer</em>
+    <em>Software Engineer | AI Solutions Engineer | AI/ML Developer</em>
   </p>
   
   [![Visitors](https://komarev.com/ghpvc/?username=xhinvier07&label=Visitors&color=blue&style=for-the-badge)](https://github.com/xhinvier07)
@@ -28,7 +28,7 @@
     <td>
     <h3>💫 About Me</h3>
       <ul>
-        <li>💼 <strong>Jr. AI Solutions Engineer at Embiggen X</strong></li>
+        <li>💼 Jr. AI Solutions Engineer @ <strong>Embiggen X</strong></li>
         <li>🌱 Exploring artificial intelligence and machine learning</li>
         <li>🎹 Piano player in my free time</li>
         <li>🎨 Anime enthusiast</li>

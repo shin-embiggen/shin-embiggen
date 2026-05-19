@@ -8,7 +8,7 @@
   # ✨ Xhinvier ✨
   
   <p align="center">
-    <em>Software Engineer | AI/ML Explorer | Frontend Developer</em>
+    <em>Software Engineer | Jr. AI Solutions Engineer | Frontend Developer</em>
   </p>
   
   [![Visitors](https://komarev.com/ghpvc/?username=xhinvier07&label=Visitors&color=blue&style=for-the-badge)](https://github.com/xhinvier07)
@@ -28,7 +28,7 @@
     <td>
     <h3>💫 About Me</h3>
       <ul>
-        <li>💼 AI/ML Developer Intern at CGI Philippines</li>
+        <li>💼 <strong>Jr. AI Solutions Engineer at Embiggen X</strong></li>
         <li>🌱 Exploring artificial intelligence and machine learning</li>
         <li>🎹 Piano player in my free time</li>
         <li>🎨 Anime enthusiast</li>
@@ -42,19 +42,18 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📊 GitHub Stats
+## 🐍 Commits
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=xhinvier07&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhinvier07&layout=compact&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=1a1b27" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xhinvier07/xhinvier07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xhinvier07/xhinvier07/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/xhinvier07/xhinvier07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xhinvier07&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true&radius=8&custom_title=Xhinvier's+Contribution+Graph" alt="Contribution Graph" />
 </div>
 
 <div align="center">
@@ -74,28 +73,40 @@
         <br>Python
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="65" height="65">
-        <br>Electron
-      </td>
-      <td align="center" width="96">
-        <img src="https://vite.dev/logo.svg" alt="Vite" width="65" height="65">
-        <br>Vite
-      </td>
-      <td align="center" width="96">
-        <img src="https://brandlogos.net/wp-content/uploads/2025/05/google_icon_2025-logo_brandlogos.net_qm5ka-512x523.png" alt="Google API" width="65" height="65">
-        <br>Google API
-      </td>
-      <td align="center" width="96">
-        <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.png" alt="OpenCV" width="65" height="65">
-        <br>OpenCV
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
+        <br>React
       </td>
       <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="65" height="65">
         <br>PyTorch
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" alt="Streamlit" width="65" height="65">
-        <br>Streamlit
+        <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="65" height="65">
+        <br>Supabase
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65">
+        <br>Flask
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="65" height="65">
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="65" height="65">
+        <br>HuggingFace
+      </td>
+      <td align="center" width="96">
+        <img src="https://d3js.org/logo.svg" alt="D3.js" width="65" height="65">
+        <br>D3.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/google_maps/google_maps-icon.svg" alt="Google Maps API" width="65" height="65">
+        <br>Maps API
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="65" height="65">
+        <br>Vercel
       </td>
     </tr>
   </table>
@@ -374,4 +385,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </div>
-
